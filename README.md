@@ -1,3 +1,3 @@
 # iamjikkualex.github.io
 
-My Portfolio Application
+@iamjikkualex - My Portfolio Application
